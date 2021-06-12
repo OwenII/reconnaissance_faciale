@@ -1,6 +1,6 @@
 # Présentation
 NSI Projet 2021 par Owen M | 
-Reconnaissance par la norme minimale entre les vecteurs (128D dlib)
+Reconnaissance par la norme minimale entre les vecteurs (128D dlib et je me suis appuyé du DeepFaceDrawing)
 
 ![Alt Text](Capture.PNG)
 
