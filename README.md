@@ -1,7 +1,8 @@
 # Présentation
-
+NSI Projet 2021
 Reconnaissance par la norme minimale entre les vecteurs (128D dlib)
-![Alt Text](readme.JPG)
+![Alt Text]
+(readme.JPG)
 
 
 ### Prérequis
