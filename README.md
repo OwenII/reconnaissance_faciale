@@ -1,12 +1,12 @@
-# Présentation
+# PrÃ©sentation
 
 Reconnaissance par la norme minimale entre les vecteurs (128D dlib)
-![Alt Text](readme.PNG)
+![Alt Text](readme.JPG)
 
 
-### Prérequis
+### PrÃ©requis
 
-Assurez-vous que les bibliothèques suivantes sont installées dans votre environnement Python :
+Assurez-vous que les bibliothÃ¨ques suivantes sont installÃ©es dans votre environnement Python :
 
 - opencv
 - dlib
@@ -14,13 +14,13 @@ Assurez-vous que les bibliothèques suivantes sont installées dans votre environn
 - imutils
 - pillow
 
-Mettez à jour le répertoire known_faces avec les images des personnes que vous voulez détecter (assurez-vous de recadrer autour des visages comme dans l'exemple de Zuckerberg).
-Please only use .jpg or .png files.
+Mettez Ã  jour le rÃ©pertoire known_faces avec les images des personnes que vous voulez dÃ©tecter (assurez-vous de recadrer autour des visages comme dans l'exemple de Zuckerberg).
+SVP seulement des images .jpg et .png
 
 ## Lancement
 
 ```
-easy_facial_recognition.py --i known_faces
+launch.py --i known_faces
 ```
 
 ## Auteur
