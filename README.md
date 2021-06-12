@@ -1,6 +1,7 @@
 # Présentation
-NSI Projet 2021 | 
+NSI Projet 2021 par Owen M | 
 Reconnaissance par la norme minimale entre les vecteurs (128D dlib)
+
 ![Alt Text](Capture.PNG)
 
 
