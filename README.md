@@ -30,4 +30,4 @@ launch.py --i known_faces
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Ce projet est sous licence MIT
